@@ -1,0 +1,32 @@
+aid: universities-list
+name: Universities List
+description: "University names, countries and domains"
+url: https://github.com/Hipo/university-domains-list
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: Universities List
+    description: "University names, countries and domains"
+    humanURL: https://github.com/Hipo/university-domains-list
+    baseURL: https://github.com/Hipo/university-domains-list
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://github.com/Hipo/university-domains-list
+common:
+  - type: Website
+    url: https://github.com/Hipo/university-domains-list
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
