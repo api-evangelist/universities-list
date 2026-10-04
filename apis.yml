@@ -39,7 +39,6 @@ apis:
   - name: Universities List
     description: "University names, countries and domains"
     humanURL: https://github.com/Hipo/university-domains-list
-    baseURL: https://github.com/Hipo/university-domains-list
     tags:
       - Open Data
     properties:
